@@ -91,7 +91,7 @@ export default function Home() {
             >
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="date" />
-              <YAxis domain={['dataMin - 2', 'dataMax + 2']} />
+              <YAxis domain={[(dataMin: number) => (dataMin - 2), (dataMax: number) => (dataMax + 2)]} />
               <Tooltip />
               <Legend />
               <Bar dataKey="weight" fill="#8884d8" />
