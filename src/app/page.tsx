@@ -44,9 +44,9 @@ export default function Home() {
             <h2 className="text-2xl font-bold text-teal-700 mb-3">Meet Vaibhav Yadav</h2>
             <p className="text-gray-800 text-lg leading-relaxed">
               On <span className="font-semibold">May 22nd, 2025</span>, I began a life-changing journey weighing <span className="font-semibold">113.2 kg</span>.<br/>
-              Through consistency, discipline, and a strong mindset, I've brought my weight down to <span className="font-semibold">104.6 kg</span> — a loss of <span className="font-semibold">8.6 kg</span> and a major win in the direction of better health and self-confidence.<br/>
+              Through consistency, discipline, and a strong mindset, I&apos;ve brought my weight down to <span className="font-semibold">104.6 kg</span> — a loss of <span className="font-semibold">8.6 kg</span> and a major win in the direction of better health and self-confidence.<br/>
               <br/>
-              This is just the beginning, and I'm here to prove that with the right mindset, anything is possible.
+              This is just the beginning, and I&apos;m here to prove that with the right mindset, anything is possible.
             </p>
             <div className="mt-8 grid grid-cols-1 md:grid-cols-2 gap-6">
               <div className="text-center">
