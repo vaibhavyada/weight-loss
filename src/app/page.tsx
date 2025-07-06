@@ -115,7 +115,7 @@ export default function Home() {
             <div className="border-l border-gray-300 h-16 hidden md:block"></div>
             <div>
               <h3 className="font-semibold text-lg mb-2">Special Thanks</h3>
-              <p>A huge thank you to Herbalife and my amazing coaches for their incredible support on this journey!</p>
+              <p>A huge thank you to all my amazing coaches for their incredible support on this journey!</p>
             </div>
           </div>
         </section>
